@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 多肉的世界
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Dora
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://github.com/DorasWorld2020/WonderfulLife.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,12 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/DorasWorld2020/WonderfulLife.github.io
-  # repo: https://DorasWorld2020:Panxueli791@github.com/DorasWorld2020/WonderfulLife.github.io.git
-  branch: master
+  repo: https://github.com/DorasWorld2020/DorasWorld2020.github.io
+  branch: gh-pages
