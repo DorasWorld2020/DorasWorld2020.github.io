@@ -1,2 +1,1 @@
-# WonderfulLife
-Blog
+### 记录多肉的世界的各种日常
