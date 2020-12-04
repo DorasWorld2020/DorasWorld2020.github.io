@@ -28,15 +28,27 @@ url: '/music/wo-hai-nian-qing.mp3',
 cover: '/images/player1.png',  
 }, 
 {  
-name: '凌晨三点',  
-artist: '陈硕子',  
-url: '/music/3am.mp3',  
-cover: '/images/player1.png',  
-}, 
-{  
 name: '雨夜曼彻斯特',  
 artist: '盘尼西林',  
 url: '/music/rain-manchesterr.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
+name: '关于郑州的记忆',  
+artist: '李志',  
+url: '/music/zhengzhou.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
+name: '结婚',  
+artist: '李志',  
+url: '/music/marrige.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
+name: '凌晨三点',  
+artist: '陈硕子',  
+url: '/music/3am.mp3',  
 cover: '/images/player1.png',  
 }, 
 {  
