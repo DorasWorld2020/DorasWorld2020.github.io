@@ -4,15 +4,15 @@ fixed: true,
 autoplay: true,  
 audio: [   
 {  
-name: '后来',  
-artist: '日语',  
-url: '/music/hou-lai-jp.mp3',  
+name: '是但求其爱',  
+artist: '陈奕迅',  
+url: '/music/eason-shi-dan.mp3',  
 cover: '/images/player1.png',  
 }, 
 {  
-name: '我不李志',  
-artist: '至此流年各天涯',  
-url: '/music/wo-bu-lizhi.mp3',  
+name: 'Road Trip',  
+artist: 'Darin',  
+url: '/music/road-rrip-Darin.mp3',  
 cover: '/images/player1.png',  
 }, 
 {  
