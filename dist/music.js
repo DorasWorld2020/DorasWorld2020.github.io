@@ -70,6 +70,12 @@ url: '/music/love-in-a-life-time.mp3',
 cover: '/images/player1.png',  
 }, 
 {  
+name: 'Traveling Light',  
+artist: 'Joel Hanson',  
+url: '/music/traveling-light.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
 name: '你看不见',  
 artist: 'Rainbow计划',  
 url: '/music/ni-kan-bu-jian.mp3',  
