@@ -76,6 +76,12 @@ url: '/music/love-in-a-life-time.mp3',
 cover: '/images/player1.png',  
 }, 
 {  
+name: 'Palette',  
+artist: 'IU',  
+url: '/music/palette-iu.mp3',  
+cover: '/images/player1.png',  
+},
+{  
 name: 'Traveling Light',  
 artist: 'Joel Hanson',  
 url: '/music/traveling-light.mp3',  
