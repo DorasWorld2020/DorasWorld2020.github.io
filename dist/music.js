@@ -4,6 +4,12 @@ fixed: true,
 autoplay: true,  
 audio: [   
 {  
+name: '欢迎来到多肉的世界',  
+artist: '大魔王Leo',  
+url: '/music/leo.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
 name: '是但求其爱',  
 artist: '陈奕迅',  
 url: '/music/eason-shi-dan.mp3',  
