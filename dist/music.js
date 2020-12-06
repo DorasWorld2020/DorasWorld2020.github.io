@@ -52,6 +52,18 @@ url: '/music/marrige.mp3',
 cover: '/images/player1.png',  
 }, 
 {  
+name: '梵高先生',  
+artist: '李志',  
+url: '/music/van-gohf.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
+name: '醒着醉',  
+artist: '马良',  
+url: '/music/xing-zhe-zui.mp3',  
+cover: '/images/player1.png',  
+}, 
+{  
 name: '凌晨三点',  
 artist: '陈硕子',  
 url: '/music/3am.mp3',  
