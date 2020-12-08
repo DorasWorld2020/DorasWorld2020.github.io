@@ -130,6 +130,12 @@ url: '/music/ou-er-hai-shi-hui-xiang-qi-ni.mp3',
 cover: '/images/player1.png',  
 },
 {  
+name: '很久以后',  
+artist: '邓紫棋',  
+url: '/music/long-after.mp3',  
+cover: '/images/player1.png',  
+},
+{  
 name: '你是我心爱的姑娘',  
 artist: '汪峰',  
 url: '/music/ni-shi-wo-xin-ai-de-gu-niang.mp3',  
